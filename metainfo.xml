@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<presentation guid="93EE5803-23C1-46C9-9337-B51D628DF4CF" version="0" availableOffline="1">
+	<info>
+		<title>PPT</title>
+		<description/>
+	</info>
+	<files index="id12" thumbnail="id40" totalSize="111313481">
+		<file id="id0">data/slide1.js</file>
+		<file id="id1">data/slide1.css</file>
+		<file id="id2">data/video1.mp4</file>
+		<file id="id3">data/slide2.js</file>
+		<file id="id4">data/slide2.css</file>
+		<file id="id5">data/quiz1.js</file>
+		<file id="id6">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id7">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id8">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id9">data/quiz1/images/img-37cc6bb1c9b3bfaea3f57dfabd05b70a39fdf61f.jpg</file>
+		<file id="id10">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id11">data/quizplayer.js</file>
+		<file id="id12">index.html</file>
+		<file id="id13">data/player.js</file>
+		<file id="id18">data/browsersupport.js</file>
+		<file id="id19">data/apple-touch-icon.png</file>
+		<file id="id20">data/favicon.ico</file>
+		<file id="id21">data/fnt0.woff</file>
+		<file id="id22">data/fnt1.woff</file>
+		<file id="id23">data/fnt2.woff</file>
+		<file id="id24">data/fnt3.woff</file>
+		<file id="id25">data/fnt4.woff</file>
+		<file id="id26">data/fnt5.woff</file>
+		<file id="id27">data/fnt6.woff</file>
+		<file id="id28">data/fnt7.woff</file>
+		<file id="id29">data/fnt8.woff</file>
+		<file id="id30">data/html5-unsupported.html</file>
+		<file id="id31">data/html5.png</file>
+		<file id="id32">data/img0.png</file>
+		<file id="id33">data/img1.png</file>
+		<file id="id34">data/img2.png</file>
+		<file id="id35">data/img3.png</file>
+		<file id="id36">data/img4.png</file>
+		<file id="id37">data/img5.png</file>
+		<file id="id38">data/img6.png</file>
+		<file id="id39">data/quiz_bg_0.png</file>
+		<file id="id40">data/ismplayer/preview.png</file>
+		<file id="id41">data/ismplayer/play.svg</file>
+		<file id="id42">data/ismplayer/style.css</file>
+		<file id="id43">data/ismplayer/style_mini.css</file>
+		<file id="id44">ismplayer.html</file>
+		<file id="id45">data/ismplayer/app_store2x.png</file>
+		<file id="id46">metainfo.xml</file>
+	</files>
+</presentation>
